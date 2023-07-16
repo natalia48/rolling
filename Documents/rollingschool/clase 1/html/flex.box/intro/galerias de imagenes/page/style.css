@@ -1,0 +1,11 @@
+.card-contact {
+    border: 0;
+}
+
+.card-contact img {
+    object-fit: cover;
+}
+
+iframe {
+    border: 0;
+}
