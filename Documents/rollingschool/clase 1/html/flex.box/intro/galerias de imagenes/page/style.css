@@ -10,6 +10,13 @@ iframe {
     border: 0;
 }
 
-.logo-footer img {
-    font-size: 2px;
+.content-watsapp {
+
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.logo-imag {
+    position: fixed;
 }
